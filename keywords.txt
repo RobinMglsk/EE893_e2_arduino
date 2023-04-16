@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For EE893_e2_arduino
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ee893E2	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+readCo2Raw				KEYWORD2
+readCo2Mean				KEYWORD2
+readStatus				KEYWORD2
+readSensorType				KEYWORD2
+readSensorSubType			KEYWORD2
+readAvailablePhysicalMeasurements	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+CB_TYPELO	LITERAL1
+CB_TYPESUB	LITERAL1
+CB_AVPHMES	LITERAL1
+CB_TYPEHI	LITERAL1
+CB_STATUS	LITERAL1
+CB_MV1LO	LITERAL1
+CB_MV1HI	LITERAL1
+CB_MV2LO	LITERAL1
+CB_MV2HI	LITERAL1
+CB_MV3LO	LITERAL1
+CB_MV3HI	LITERAL1
+CB_MV4LO	LITERAL1
+CB_MV4HI	LITERAL1
